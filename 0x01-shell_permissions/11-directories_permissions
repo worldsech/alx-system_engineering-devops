@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugg+x
+chmod -R 755
